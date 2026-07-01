@@ -8,4 +8,4 @@
 ## Credits
 This repo relies on the following third-party projects:
 - [CatVodTVOfficial/TVBoxOSC](https://github.com/piaoyizy/TVBoxOSC)
-- [piaoyizy/TVBoxOS](https://github.com/piaoyizy/TVBoxOS) (Updated: 2ec9ac589ed79a4cafab2983254e2da5c83b1fb7)
+- [piaoyizy/TVBoxOS](https://github.com/piaoyizy/TVBoxOS) (Updated: e9fa303a6f936b9878dc8088c59f56f88479ab1f)
